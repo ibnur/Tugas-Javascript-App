@@ -1,5 +1,4 @@
 // Prajurit 1
-
 SIMPAN 'Prajurit'
 SIMPAN 'Senjata
 TAMBAHKAN Shotgun,Famas ke dalam 'senjata' 
