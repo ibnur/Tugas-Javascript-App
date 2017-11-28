@@ -1,4 +1,5 @@
 // Prajurit 1
+
 SIMPAN 'Prajurit'
 SIMPAN 'Senjata
 TAMBAHKAN Shotgun,Famas ke dalam 'senjata' 
@@ -9,6 +10,7 @@ ELSE:
   TULISKAN Silahkan pilih prajurit!
   
 // Prajurit 2
+
 SIMPAN 'Prajurit'
 SIMPAN 'Senjata'
 IF 'Prajurit' adalah James THEN
@@ -18,6 +20,7 @@ ELSE:
   TULISKAN Silahkan pilih prajurit!
 
 // prajurit 3
+
 SIMPAN 'Prajurit'
 SIMPAN 'Senjata'
 IF 'Prajurit' adalah Greeny THEN
@@ -27,6 +30,7 @@ ELSE:
   TULISKAN Silahkan pilih prajurit!
 
 // prajurit 4
+
 SIMPAN 'Prajurit'
 SIMPAN 'Senjata'
 IF 'Prajurit' adalah Barnes THEN
